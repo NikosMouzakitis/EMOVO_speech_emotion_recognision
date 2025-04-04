@@ -1,0 +1,2 @@
+# EMOVO_speech_emotion_recognision
+EMOVO_speech_emotion_recognision
