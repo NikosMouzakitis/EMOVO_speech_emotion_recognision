@@ -1,0 +1,22 @@
+\BOOKMARK [1][-]{section.1}{Introduction}{}% 1
+\BOOKMARK [1][-]{section.2}{System Architecture}{}% 2
+\BOOKMARK [1][-]{section.3}{Feature Extraction Process}{}% 3
+\BOOKMARK [2][-]{subsection.3.1}{Methodology}{section.3}% 4
+\BOOKMARK [3][-]{subsubsection.3.1.1}{Audio Loading and Preprocessing}{subsection.3.1}% 5
+\BOOKMARK [3][-]{subsubsection.3.1.2}{Sliding Window Processing}{subsection.3.1}% 6
+\BOOKMARK [2][-]{subsection.3.2}{Visibility Graph Construction in EMOVO Processing}{section.3}% 7
+\BOOKMARK [3][-]{subsubsection.3.2.1}{Input Preparation}{subsection.3.2}% 8
+\BOOKMARK [3][-]{subsubsection.3.2.2}{Graph Construction}{subsection.3.2}% 9
+\BOOKMARK [3][-]{subsubsection.3.2.3}{Example of visibility graph adjacency matrix}{subsection.3.2}% 10
+\BOOKMARK [3][-]{subsubsection.3.2.4}{Graph Feature Extraction}{subsection.3.2}% 11
+\BOOKMARK [3][-]{subsubsection.3.2.5}{Matrix Preprocessing}{subsection.3.2}% 12
+\BOOKMARK [3][-]{subsubsection.3.2.6}{Feature Computation Pipeline}{subsection.3.2}% 13
+\BOOKMARK [1][-]{section.4}{Gender Classification}{}% 14
+\BOOKMARK [2][-]{subsection.4.1}{Implementation Details}{section.4}% 15
+\BOOKMARK [2][-]{subsection.4.2}{Classification Results}{section.4}% 16
+\BOOKMARK [1][-]{section.5}{Emotion Classification}{}% 17
+\BOOKMARK [2][-]{subsection.5.1}{Implementation Details}{section.5}% 18
+\BOOKMARK [2][-]{subsection.5.2}{Emotion Classification Results}{section.5}% 19
+\BOOKMARK [1][-]{section.6}{Conclusion}{}% 20
+\BOOKMARK [2][-]{subsection.6.1}{Other notes}{section.6}% 21
+\BOOKMARK [1][-]{section.7}{References}{}% 22
