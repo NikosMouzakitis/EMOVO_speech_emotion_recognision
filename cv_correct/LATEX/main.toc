@@ -1,0 +1,12 @@
+\contentsline {chapter}{Abstract}{1}{chapter*.1}%
+\contentsline {chapter}{\numberline {1}Introduction}{3}{chapter.1}%
+\contentsline {chapter}{\numberline {2}Related Work}{4}{chapter.2}%
+\contentsline {chapter}{\numberline {3}Methodology-Implementation}{5}{chapter.3}%
+\contentsline {section}{\numberline {3.1}Hw and Sw Requirements}{5}{section.3.1}%
+\contentsline {section}{\numberline {3.2}Data Details}{5}{section.3.2}%
+\contentsline {section}{\numberline {3.3}Method}{5}{section.3.3}%
+\contentsline {section}{\numberline {3.4}Evaluation Measures}{6}{section.3.4}%
+\contentsline {subsection}{\numberline {3.4.1}Classification with texture, shape and statistical features}{7}{subsection.3.4.1}%
+\contentsline {subsection}{\numberline {3.4.2}Classification with frequency features}{9}{subsection.3.4.2}%
+\contentsline {subsection}{\numberline {3.4.3}Classification utilizing all features}{11}{subsection.3.4.3}%
+\contentsline {chapter}{\numberline {4}Conclusion}{13}{chapter.4}%
